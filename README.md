@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI & Machine Learning, also more about .NET**
 
-- 📫 How to reach me **akinalpfdn@gmail.com**
+- 📫 You can reach me via email **akinalpfdn@gmail.com**
 
 - 📄 Know about my experiences from [here](https://drive.google.com/file/d/1E5Z5m-zH7FQj_nz-J2-Ca4udWMF2a79z/view?usp=sharing)
 
