@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **akinalpfdn@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E5Z5m-zH7FQj_nz-J2-Ca4udWMF2a79z/view?usp=sharing](https://drive.google.com/file/d/1E5Z5m-zH7FQj_nz-J2-Ca4udWMF2a79z/view?usp=sharing)
+- 📄 Know about my experiences from [here](https://drive.google.com/file/d/1E5Z5m-zH7FQj_nz-J2-Ca4udWMF2a79z/view?usp=sharing)
 
 - ⚡ Fun fact **I love cooking and I eat a lot**
 
