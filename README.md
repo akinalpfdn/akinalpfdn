@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Akınalp Fidan</h1>
 <h3 align="center">A passionate and hardworking fullstack developer(prone to backend tho)</h3>
 
-- 🔭 I’m currently working on **backend consultancy of ERP systems in ALFA Cozum**
+- 🔭 I’m currently working as **full-stack developer in ALFA Cozum**
 
-- 🌱 I’m currently learning **AI & Machine Learning, also more about .NET**
+- 🌱 I’m constantly **creating new apps with Kotlin and sometimes Swift**
 
 - 📫 You can reach me via email **akinalpfdn@gmail.com**
 
 - 📄 Know about my experiences from [here](https://drive.google.com/file/d/1PiGqS91EojO3pajchYmkwNe3p6UrGJ7s/view?usp=sharing)
+
+- 📄 Also check my new website from [here](https://akinalpfdn.com/)
 
 - ⚡ Fun fact **I love cooking and I eat a lot**
 
