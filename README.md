@@ -26,7 +26,7 @@ I'm a passionate full-stack developer with a strong focus on backend architectur
 - **StartupManager** - Macoss utility tool
 - **FoodRecipesV3** - Recipe sharing platform for android developed with Kotlin
 - **crimaps** - Crime/illegal activities sharing app built with Kotlin
-- 
+ 
 ### Web & Backend
 
 - **myportfolio website** - My personal website that you can check from above link
