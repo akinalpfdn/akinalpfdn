@@ -1,24 +1,79 @@
-<h1 align="center">Hi 👋, I'm Akınalp Fidan</h1>
-<h3 align="center">A passionate and hardworking fullstack developer(prone to backend tho)</h3>
+# Akınalp Fidan
 
-- 🔭 I’m currently working as **full-stack developer in ALFA Cozum**
+**Full-Stack Developer | Mobile & Backend Specialist**
 
-- 🌱 I’m constantly **creating new apps with Kotlin and sometimes Swift**
+I'm a passionate full-stack developer with a strong focus on backend architecture and mobile development. Currently building scalable solutions at ALFA Çözüm while constantly exploring new technologies and creating meaningful applications.
 
-- 📫 You can reach me via email **akinalpfdn@gmail.com**
+🌐 **[Visit My Website](https://akinalpfdn.com/)**
 
-- 📄 Know about my experiences from [here](https://drive.google.com/file/d/1PiGqS91EojO3pajchYmkwNe3p6UrGJ7s/view?usp=sharing)
+---
 
-- 📄 Also check my new website from [here](https://akinalpfdn.com/)
+## 🚀 Current Focus
 
-- ⚡ Fun fact **I love cooking and I eat a lot**
+- Building native mobile applications with **Kotlin** and **Swift**
+- Developing enterprise solutions with **.NET** and **C#**
+- Creating meaningfull complex reports for enterprises with **MSSQL** 
+- Developing our own lowcode platform with **spring boot** on my current company
+- Creating intuitive user experiences with **React** and **TypeScript**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akınalp-fidan-0b681616a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akınalp-fidan-0b681616a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akinalp97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akinalp97" height="30" width="40" /></a>
-</p>
+## 💼 Recent Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### Mobile Applications
+- **MovApp** - Alternative Launchpad for Macos26  built with Swift
+- **ExpenseTracker** - Cross-platform expense tracking app (Swift & Kotlin versions)
+- **StepRush** - Fitness tracking application with React Native and Kotlin native versions
+- **NightTales** - iOS dream interpreter app
+- **StartupManager** - Macoss utility tool
+- **FoodRecipesV3** - Recipe sharing platform for android developed with Kotlin
+- **crimaps** - Crime/illegal activities sharing app built with Kotlin
+- 
+### Web & Backend
 
+- **myportfolio website** - My personal website that you can check from above link
+- **ALFInfoLogHelper** - Enterprise logging system for EBA projects
+- **Akira** - Lowcode ERP application for Production companies
+- **ALFAsposeHelper** - Excel automation and reporting tool
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+**Frameworks & Technologies**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+
+**Databases**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+## 📫 Get in Touch
+
+- 🌐 Website: [akinalpfdn.com](https://akinalpfdn.com/)
+- 📧 Email: akinalpfdn@gmail.com
+- 💼 LinkedIn: [Akınalp Fidan](https://linkedin.com/in/akınalp-fidan-0b681616a)
+- 💻 HackerRank: [@akinalp97](https://www.hackerrank.com/akinalp97)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinalpfdn&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akinalpfdn&layout=compact&theme=radical&hide_border=true)
+
+---
+
+⚡ **Fun fact:** When I'm not coding, you'll find me experimenting in the kitchen or exploring new cuisines!
