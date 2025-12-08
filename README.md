@@ -70,7 +70,7 @@ I'm a passionate full-stack developer with a strong focus on backend architectur
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinalpfdn&show_icons=true&theme=radical&hide_border=true](https://github-readme-stats-steel-eight-95.vercel.app/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinalpfdn&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akinalpfdn&layout=compact&theme=radical&hide_border=true)
 
