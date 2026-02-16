@@ -118,8 +118,8 @@ A large-scale voice chat community platform built for real-time social interacti
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinalpfdn&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akinalpfdn&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-steel-eight-95.vercel.app/api?username=akinalpfdn&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-steel-eight-95.vercel.app/api/top-langs/?username=akinalpfdn&layout=compact&theme=radical&hide_border=true)
 
 ---
 
